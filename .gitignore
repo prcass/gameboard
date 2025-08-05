@@ -1,0 +1,31 @@
+# Arduino IDE files
+*.ino.bak
+*.ino~
+
+# Build files
+build/
+*.hex
+*.elf
+*.eep
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Backup files
+backup/
+*.backup
