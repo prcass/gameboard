@@ -1,10 +1,10 @@
 # GameBoard - RFID Press Your Luck Prototype
 
-🎮 A physical prototype of an RFID-based "Press Your Luck" educational ranking game. Scan country tokens to test your knowledge - each scan gives immediate feedback and builds tension!
+🎮 A physical prototype of an RFID-based "Press Your Luck" party game. Scan country tokens to test your knowledge - each scan gives immediate feedback and builds tension!
 
 ![Arduino RFID Game](https://img.shields.io/badge/Arduino-RFID%20Game-blue?style=for-the-badge&logo=arduino)
 ![Press Your Luck](https://img.shields.io/badge/Game%20Style-Press%20Your%20Luck-red?style=for-the-badge)
-![Educational](https://img.shields.io/badge/Category-Educational-green?style=for-the-badge)
+![Party Game](https://img.shields.io/badge/Category-Party%20Game-green?style=for-the-badge)
 
 ## 🎯 Game Overview
 
@@ -99,10 +99,11 @@ gameboard/
 - **Buzzer sound patterns** - Processing, correct, wrong, victory
 - **No screen required** - Pure audio/visual experience
 
-### Educational Content
-- **Real country data** - GDP, population, land area, GDP per capita
-- **Multiple challenges** - Different ranking categories
-- **Learning through play** - Memorable facts through game tension
+### Party Game Features
+- **Social gameplay** - Perfect for groups and parties
+- **Competitive tension** - Risk vs reward on every scan
+- **Quick rounds** - Fast-paced gameplay keeps everyone engaged
+- **Real world trivia** - Country facts that spark conversation
 
 ## 🧪 Testing & Validation
 
@@ -115,8 +116,8 @@ gameboard/
 ### Game Experience Validation
 - [ ] **Scanning feels magical** - Instant response builds excitement
 - [ ] **Press-your-luck tension** - Players genuinely torn between risk/reward
-- [ ] **Educational value** - Players learn and remember country facts
-- [ ] **Replayability** - Want to try again with different challenges
+- [ ] **Party atmosphere** - Gets people laughing and competitive
+- [ ] **Replayability** - Groups want multiple rounds
 
 ## 🎯 Success Metrics
 
@@ -129,8 +130,8 @@ gameboard/
 **User Experience:**
 - Players understand rules without lengthy explanation
 - Natural tension builds with each additional scan
-- Educational facts stick with players after game
-- High replay desire across different age groups
+- Creates memorable party moments and reactions
+- High replay desire across different groups
 
 ## 🛠️ Development Status
 
@@ -146,7 +147,7 @@ gameboard/
 This is a prototype validation project. Feedback welcome on:
 - User experience during gameplay
 - Hardware reliability and durability
-- Educational effectiveness
+- Party game engagement and fun factor
 - Manufacturing feasibility
 
 ## 📄 License
@@ -155,9 +156,9 @@ MIT License - Feel free to build, modify, and learn from this prototype!
 
 ## 🎪 About This Project
 
-**GameBoard** is a proof-of-concept for a physical RFID-based educational game. The goal is to validate the core "press your luck" scanning mechanic before investing in full-scale manufacturing.
+**GameBoard** is a proof-of-concept for a physical RFID-based party game. The goal is to validate the core "press your luck" scanning mechanic before investing in full-scale manufacturing.
 
-Built with ❤️ using Arduino, RFID technology, and the excitement of educational gaming.
+Built with ❤️ using Arduino, RFID technology, and the excitement of social gaming.
 
 ---
 
