@@ -1,0 +1,56 @@
+# GameBoard NFC UID Recording Log
+# Date: August 6, 2025
+# 
+# Instructions: Copy and paste the UID for each scanned sticker below
+# Format: UID: "XX XX XX XX"
+#
+# ========================================
+# COUNTRY TOKENS
+# ========================================
+
+Token #1 (USA): "1D 5B 00 76 0D 10 80"
+Token #2 (China): "1D 0E 0E 76 0D 10 80"
+Token #3 (Japan): "1D EC 10 76 0D 10 80"
+Token #4 (Germany): "1D 05 1E 76 0D 10 80"
+Token #5 (India): "1D 0D 21 76 0D 10 80"
+Token #6 (United Kingdom): "1D 43 2E 76 0D 10 80"
+Token #7 (France): "1D 23 31 76 0D 10 80"
+Token #8 (Italy): "1D 30 3D 76 0D 10 80"
+Token #9 (Brazil): "1D 39 40 76 0D 10 80"
+Token #10 (Canada): "1D 42 4D 76 0D 10 80" 
+Token #11 (Russia): 
+Token #12 (South Korea): 
+Token #13 (Australia): 
+Token #14 (Spain): 
+Token #15 (Mexico): 
+Token #16 (Indonesia): 
+Token #17 (Netherlands): 
+Token #18 (Saudi Arabia): 
+Token #19 (Turkey): 
+Token #20 (Switzerland): 
+
+# ========================================
+# CHALLENGE CARDS
+# ========================================
+
+Challenge #1 (GDP - Highest to Lowest): "1D C2 30 76 0D 10 80"
+Challenge #2 (Population - Highest to Lowest): "1D E1 4C 76 0D 10 80"
+Challenge #3 (Area - Highest to Lowest): "1D D8 3F 76 0D 10 80"
+Challenge #4 (GDP per Capita - Highest to Lowest): "1D D1 3C 76 0D 10 80" 
+
+# ========================================
+# EXTRA STICKERS (for future use)
+# ========================================
+
+Extra #1: 
+Extra #2: 
+Extra #3: 
+Extra #4: 
+Extra #5: 
+
+# ========================================
+# NOTES
+# ========================================
+# - Each UID is unique to that sticker
+# - UIDs are in format "XX XX XX XX" (4 bytes)
+# - These UIDs will be used in gameboard_prototype.ino
